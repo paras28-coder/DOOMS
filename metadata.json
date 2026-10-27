@@ -1,0 +1,6 @@
+{
+  "name": "DecideMate AI",
+  "description": "Smarter Decisions. A Brighter Future. Futuristic AI decision advisor and comparison dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
